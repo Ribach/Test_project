@@ -1,4 +1,5 @@
 # wallet.py
+# add an example command
 
 class InsufficientAmount(Exception):
     pass
